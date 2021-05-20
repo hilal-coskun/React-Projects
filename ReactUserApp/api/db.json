@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "Hilal Coşkun",
+      "salary": "7000",
+      "department": "Finance",
+      "id": "unique-3"
+    }
+  ]
+}
